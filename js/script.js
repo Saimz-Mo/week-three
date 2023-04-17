@@ -44,7 +44,7 @@ $(document).ready(function(){
     }).mouseout(function(){
       $("#overlay2").hide();
     });
-  });
+  });  
   $(document).ready(function(){
     $("#work3").mouseover(function(){
       $("#overlay3").show();
